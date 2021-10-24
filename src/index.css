@@ -1,0 +1,184 @@
+::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}
+* {
+  margin: 0;padding: 0;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ce-message-timestamp{
+  color: orange !important;
+}
+
+.ce-message-bubble{
+  color: rgba(0, 0, 0, 0.822) !important;
+  
+}
+
+.ce-message-bubble-row{
+  color: orange !important;
+}
+#ce-feed-container{
+  color: rgba(0, 0, 0, 0.822) !important ;
+  background-color:  rgba(0, 0, 0, 0.822) !important;
+}
+.ce-chat-title{
+  background-color: darkorange !important;
+
+}
+.ce-chat-subtitle-text{
+  color:rgba(0, 0, 0, 0.822) !important ;
+  font-weight: bold !important;
+}
+
+.ce-message-date-text{
+  color: orange !important;
+  font-weight: bold !important;
+}
+#ce-message{
+  color: orange !important;
+  background-color: orange !important;
+}
+.ce-chats-container{
+  background-color: orange !important;
+  border: none !important;
+
+}
+.ce-chat-form-container{
+  background-color: orange !important;
+
+}
+
+.ce-chat-card {
+  background-color:rgba(0, 0, 0, 0.822) !important  ;
+  color: orange !important;
+  margin: 10px;
+}
+#new-chat-plus-button{
+  background-color:rgba(0, 0, 0, 0.822) !important  ;
+  color: orange !important;
+  
+}
+.ce-chat-subtitle-text{
+  color: rgba(0, 0, 0, 0.822) !important;
+
+}
+
+.ce-chat-title-text{
+  color: orange !important;
+
+}
+.ce-chat-unread-dot{
+  background-color: darkorange !important;
+  border: 1px solid orange !important;
+}
+
+#ce-ice-breaker-text{
+  color: orange !important;
+
+}
+.ce-settings{
+  color: orange !important;
+  background-color:rgba(0, 0, 0, 0.822) !important  ;
+  border: none !important;
+
+
+}
+
+.ce-input {
+  color: orange !important;
+  background-color:rgba(0, 0, 0, 0.822) !important  ;
+
+}
+.ce-section-title-container{
+  background-color:rgba(0, 0, 0, 0.822) !important  ;
+  border: none !important;
+
+}
+#ce-options-drop-down{
+  background-color:rgba(0, 0, 0, 0.822) !important  ;
+
+}
+#ce-delete-chat-button{
+  background-color:rgba(0, 0, 0, 0.822) !important  ;
+
+}
+
+.ql-container{
+  background: rgba(0, 0, 0, 0.404);
+
+}
+
+#toolbar{
+  background-color: orange !important;
+  color: rgba(0, 0, 0, 0.822) !important;
+}
+#ce-send-message-button{
+  background-color:rgba(0, 0, 0, 0.822) !important ;
+  color: orange !important;
+}
+.ce-chat-list{
+  border: none !important;
+}
+#ce-add-username-input{
+  border: 1px solid orange !important;
+  color: orange !important;
+}
+#ce-add-username-input::placeholder{
+  color: orange !important;
+
+}
+
+.ce-primary-button {
+  background-color: rgba(0, 0, 0, 0.822) !important ;
+}
+
+.ce-autocomplete-options{
+  background-color: orange !important;
+}
+#ce-username-option{
+  background-color: orange !important;
+}
+.ql-bold:hover{
+  color: darkorange;
+}
+.ce_message{
+  background-color: darkorange !important;
+}
+
+.ce-message-bubble{
+  background-color: darkorange !important;
+}
+.ce-input{
+  background-color: rgba(255, 140, 0, 0) !important;
+}
+.ce-section-title-container{
+  background-color: rgba(255, 140, 0, 0) !important;
+
+}
+#ce-options-drop-down{
+  background-color: rgba(255, 140, 0, 0) !important;
+
+}
+.ce-chat-title-text{
+  color:orange!important  ;
+}
+
+.ce-chat-subtitle-message{
+  color: orange !important;
+}
+.ce-chat-subtitle-date{
+  color: orange !important;
+
+}
+
+.msg-form-container{
+  background-color:rgba(0, 0, 0, 0.822) !important  ;
+}
+
+.ce-autocomplete-close{
+  color:  black !important;
+}

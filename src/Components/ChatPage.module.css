@@ -1,0 +1,16 @@
+#ce-feed-container{
+    background-color: blue !important;
+    color: rebeccapurple !important;
+}
+.ce-message-bubble{
+    color: red !important;
+}
+
+.font-weight{
+    color: brown !important;
+}
+
+.ce-chat-form-container{
+    color: cadetblue !important;
+    background-color: chartreuse !important;
+}

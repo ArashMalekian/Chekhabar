@@ -1,0 +1,55 @@
+
+.container {    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background: url("../Pics/mehrshad-rajabi-nHdzbK6qaqE-unsplash.jpg" )  ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 753px;    
+}
+
+.loginCard {
+    border: rgba(0, 0, 0, 0.281) 2px solid;
+    width: 300px;height: 150px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 4px black;
+    background: rgba(0, 0, 0, 0.404);
+}
+
+.loginTitle {
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: whitesmoke;
+    margin-bottom: 30px;
+    
+}
+
+.loginBtn {
+    width: 270px;height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: orange;
+    border-radius: 10px;
+    margin: auto;
+    transition: all .3s ease-in;
+
+}
+
+.loginBtn:hover {
+    opacity: .6;
+    cursor: pointer;
+}
+
+.loginBtn:active {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.loginBtn img {
+    width: 50px;
+    margin-right: 10px;
+}
